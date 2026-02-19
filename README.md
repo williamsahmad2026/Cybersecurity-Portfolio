@@ -15,7 +15,7 @@ Botium Toys is a fictional U.S. toy company expanding its online presence intern
 - Completed a controls and compliance checklist for technical and organizational safeguards  
 - Evaluated compliance with PCI DSS, GDPR, and SOC type 1 & 2 frameworks  
 - Provided actionable recommendations to mitigate risks and improve security posture
-- 
+ 
  **Key Highlights / Findings:**  
 - Identified gaps in least privilege and separation of duties  
 - Recommended encryption for sensitive customer data  
@@ -24,6 +24,6 @@ Botium Toys is a fictional U.S. toy company expanding its online presence intern
 - Developed a plan for monitoring and maintaining legacy systems
   
  **Supporting Documents:**
-- [Scope, Goals, and Risk Assessment Report (PDF)](Botium-Toys-Scope-goals-risk-assessment-report.pdf).
-- [Control Categories Document (PDF)](Control-categories.pdf).
-- [Controls and Compliance Checklist (PDF)](Security-Audit-Controls-and-compliance-checklist.pdf).
+- [Scope, Goals, and Risk Assessment Report (PDF)](Botium-Toys-Scope-goals-risk-assessment-report.pdf)
+- [Control Categories Document (PDF)](Control-categories.pdf)
+- [Controls and Compliance Checklist (PDF)](Security-Audit-Controls-and-compliance-checklist.pdf)
