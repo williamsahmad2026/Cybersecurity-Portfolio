@@ -26,4 +26,4 @@ Botium Toys is a fictional U.S. toy company expanding its online presence intern
  **Supporting Documents:**
 - [Scope, Goals, and Risk Assessment Report (PDF)](Botium-Toys-Scope-goals-risk-assessment-report.pdf).
 - [Control Categories Document (PDF)](Control-categories.pdf).
-- [Controls and Compliance Checklist (PDF)](
+- [Controls and Compliance Checklist (PDF)](Security-Audit-Controls-and-compliance-checklist.pdf).
