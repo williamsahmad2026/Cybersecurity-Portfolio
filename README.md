@@ -24,6 +24,6 @@ Botium Toys is a fictional U.S. toy company expanding its online presence intern
 - Developed a plan for monitoring and maintaining legacy systems
   
  **Supporting Documents:**
-- [Scope, Goals, and Risk Assessment Report (PDF)](
+- [Scope, Goals, and Risk Assessment Report (PDF)](Botium Toys_ Scope, goals, and risk assessment report.pdf).
 - [Control Categories Document (PDF)](
 - [Controls and Compliance Checklist (PDF)](
