@@ -27,3 +27,27 @@ Botium Toys is a fictional U.S. toy company expanding its online presence intern
 - [Scope, Goals, and Risk Assessment Report (PDF)](Botium-Toys-Scope-goals-risk-assessment-report.pdf)
 - [Control Categories Document (PDF)](Control-categories.pdf)
 - [Controls and Compliance Checklist (PDF)](Security-Audit-Controls-and-compliance-checklist.pdf)
+
+  ---
+
+### Incident Response Using NIST Cybersecurity Framework – DDOS Attack
+
+**Scenario Summary:**  
+The organization experienced a DDOS (Distributed Denial of Service) attack that compromised the internal network for 2 hours. The attack used a flood of ICMP (Internet Control Message Protocol) pings through an unconfigured firewall, causing internal network services to stop responding. The cybersecurity team investigated and implemented mitigation steps to restore services.
+
+**My Role / Skills Demonstrated:**  
+- Applied the NIST Cybersecurity Framework to analyze and respond to the incident  
+- Identified the type and scope of the ICMP flood attack  
+- Recommended network hardening techniques, firewall rules, and IDS/IPS deployment  
+- Developed procedures for monitoring, detection, and recovery  
+- Produced an incident report with actionable recommendations for preventing future attacks
+
+**Key Highlights / Findings:**  
+- Determined the attack type: ICMP flood DDOS  
+- Implemented firewall rules to limit incoming ICMP packets  
+- Configured IDS/IPS to detect and filter suspicious traffic  
+- Applied source IP verification and log analysis to detect abnormal patterns  
+- Planned recovery steps to restore critical network services and prevent future attacks  
+
+**Supporting Documents:**  
+- [Incident Report Analysis (PDF)](Incident-Report-Analysis.pdf)
