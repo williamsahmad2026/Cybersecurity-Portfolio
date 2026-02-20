@@ -3,6 +3,13 @@
 ## About Me
 I am an entry-level cybersecurity professional with hands-on experience in threat investigation, log analysis, and incident response. Completed the Google Cybersecurity Certificate and lab projects, demonstrating practical skills to help organizations detect, analyze, and mitigate cyber threats. Passionate about protecting systems and continuously developing skills to contribute effectively across security operations.
 
+## Technical Skills
+- Frameworks: NIST CSF, NIST SP 800-30
+- Tools: Wireshark, VirusTotal
+- Languages: Python, SQL
+- Systems: Linux
+- Concepts: Incident Response, Risk Assessment, Access Control, Log Analysis
+
 ## Projects
 
 ### Controls and Compliance Assessment – Botium Toys
