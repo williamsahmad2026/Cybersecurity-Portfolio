@@ -86,3 +86,4 @@ In a simulated enterprise environment, I worked as a security professional suppo
 
 **Supporting Documents:**  
 - [Linux File Permissions Report (PDF)](File-Permissions-In-Linux.pdf)
+- [Current File Permissions (PDF)](Current-File-Permissions.pdf)
