@@ -129,3 +129,59 @@ In a simulated enterprise environment, I worked as a security professional inves
 
 **Supporting Documents:**  
 - [SQL Filters Investigation Report (PDF)](Apply-Filters-To-SQL-Queries.pdf)
+
+---
+
+### Vulnerability Assessment – Publicly Accessible Database Server
+
+**Scenario Summary:**  
+In a simulated enterprise environment involving an e-commerce company, I conducted a vulnerability assessment of a remote MySQL database server that had been publicly accessible for three years. The server stores valuable business data used by remote employees worldwide to identify potential customers. Using NIST SP 800-30 Rev. 1 as guidance, I evaluated risks associated with public exposure and its impact on business operations.
+
+**My Role / Skills Demonstrated:**  
+- Conducted a vulnerability assessment of a publicly exposed database server  
+- Applied NIST SP 800-30 Rev. 1 risk analysis methodology  
+- Evaluated threat sources, likelihood, severity, and calculated overall risk  
+- Assessed business impact related to confidentiality, integrity, and availability  
+- Developed remediation strategies to reduce organizational risk  
+
+**Risk Analysis (NIST SP 800-30 Methodology):**
+
+- **Hacker Reconnaissance**  
+  - Likelihood: 3 (High)  
+  - Severity: 2 (Moderate)  
+  - Risk Score: 6  
+
+- **Malicious Software / Data Exfiltration**  
+  - Likelihood: 3 (High)  
+  - Severity: 3 (High)  
+  - Risk Score: 9  
+
+- **Network / Infrastructure Outage**  
+  - Likelihood: 2 (Moderate)  
+  - Severity: 2 (Moderate)  
+  - Risk Score: 4  
+
+**Key Findings:**  
+- Public accessibility significantly increased the attack surface  
+- Data exfiltration presents the highest organizational risk (Risk Score: 9)  
+- Exposure threatens confidentiality of business data and operational continuity  
+- Lack of access controls increases likelihood of exploitation  
+
+**Remediation Recommendations:**  
+- Implement authentication, authorization, and auditing mechanisms  
+- Enforce strong password policies and multi-factor authentication (MFA)  
+- Apply role-based access controls (RBAC) and least privilege principles  
+- Replace SSL with modern TLS encryption for secure data transmission  
+- Implement IP allow-listing to restrict external access  
+- Establish regular backups and redundancy for business continuity  
+
+**Security Concepts Applied:**  
+- Vulnerability Assessment  
+- Risk Management (NIST SP 800-30)  
+- CIA Triad (Confidentiality, Integrity, Availability)  
+- Access Control & Least Privilege  
+- Defense in Depth  
+- Business Continuity Planning  
+
+**Supporting Documents:**  
+- [Vulnerability Assessment Report (PDF)](Vulnerability-Assessment-Report.pdf)
