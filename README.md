@@ -90,3 +90,42 @@ In a simulated enterprise environment, I worked as a security professional suppo
 
 ---
 
+### SQL Query Filtering – Security Investigation & Log Analysis
+
+**Scenario Summary:**  
+In a simulated enterprise environment, I worked as a security professional investigating potential security issues involving login attempts and employee machines. Using SQL, I analyzed data from the `log_in_attempts` and `employees` tables to identify suspicious activity, policy violations, and systems requiring security updates.
+
+**My Role / Skills Demonstrated:**  
+- Queried relational databases using SQL  
+- Applied filtering techniques using WHERE, AND, OR, and NOT operators  
+- Used pattern matching with LIKE and wildcard %  
+- Investigated failed login attempts and abnormal geographic access  
+- Retrieved employee machine data for targeted security updates  
+- Interpreted query results to support security decision-making  
+
+**Key Technical Actions Performed:**  
+- Retrieved 19 failed login attempts that occurred after 18:00 (after-hours activity)  
+- Identified 75 login attempts occurring on specific dates (2022-05-08 and 2022-05-09)  
+- Filtered login attempts originating outside of Mexico using pattern matching (NOT LIKE 'MEX%')  
+- Retrieved employees in the Marketing department located in the East building  
+- Filtered employees in the Finance or Sales departments for targeted security updates  
+- Retrieved all employees not in the Information Technology department for additional system updates  
+
+**SQL Concepts Applied:**  
+- SELECT statements with wildcard (*)  
+- WHERE clause filtering  
+- Logical operators: AND, OR, NOT  
+- Comparison operators (>)  
+- Pattern matching using LIKE and % wildcard  
+- Multi-condition filtering for investigative analysis  
+
+**Security Concepts Applied:**  
+- Log Analysis  
+- Threat Detection  
+- Anomalous Login Investigation  
+- Access Monitoring  
+- Department-Based Asset Management  
+- Security Data Analysis  
+
+**Supporting Documents:**  
+- [SQL Filters Investigation Report (PDF)](Apply-Filters-To-SQL-Queries.pdf)
