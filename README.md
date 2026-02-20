@@ -223,3 +223,40 @@ In a simulated SOC and enterprise environment, I maintained an incident handlerâ
 
 **Supporting Documents:**  
 - [Incident Handler's Journal (PDF)](Incident-Handler's-Journal.pdf)
+
+  ---
+
+### Python Automation â€“ Update Allow List File Using an Algorithm
+
+**Scenario Summary:**  
+In a simulated healthcare security environment, I developed a Python algorithm to maintain an IP address allow list for a restricted subnetwork used to access personal patient records. The task required comparing an `allow_list.txt` file against a `remove_list` and automatically removing unauthorized IP addresses from the allow list file.
+
+**My Role / Skills Demonstrated:**  
+- Automated access control maintenance using Python  
+- Opened and parsed file contents using `with open()` and file objects  
+- Converted data between string and list formats for processing (`.read()`, `.split()`, `.join()`)  
+- Used iteration and conditional logic to remove unauthorized entries  
+- Updated and rewrote files safely using write mode (`"w"`)  
+
+**Key Technical Actions Performed:**  
+- Opened `allow_list.txt` in read mode and stored contents in a variable (`ip_addresses`)  
+- Converted the allow list from a string into a list using `.split()`  
+- Iterated through the allow list and removed any IP addresses found in `remove_list`  
+- Converted the updated list back into newline-separated string format using `.join("\n")`  
+- Wrote the revised allow list back to `allow_list.txt` using `.write()`  
+
+**Python Concepts Used:**  
+- `with open(filename, "r")` and `with open(filename, "w")`  
+- File methods: `.read()`, `.write()`  
+- String/list methods: `.split()`, `.join()`  
+- `for` loops, membership checks (`in`), and conditionals (`if`)  
+- List modification with `.remove()`  
+
+**Security Concepts Applied:**  
+- Access Control (Allow List Management)  
+- Least Privilege (removing unauthorized access)  
+- Automation for Security Operations  
+- Protection of Sensitive Data (patient records environment)
+
+**Supporting Documents:**  
+- [Algorithm for File Updates in Python (PDF)](Algorithm-for-file-updates-in-Python.pdf)
