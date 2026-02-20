@@ -185,3 +185,41 @@ In a simulated enterprise environment involving an e-commerce company, I conduct
 
 **Supporting Documents:**  
 - [Vulnerability Assessment Report (PDF)](Vulnerability-Assessment-Report.pdf)
+
+---
+
+### Incident Handler’s Journal – Multi-Scenario Incident Analysis
+
+**Scenario Summary:**  
+In a simulated SOC and enterprise environment, I maintained an incident handler’s journal documenting multiple cybersecurity incidents. Each entry followed structured incident response documentation practices, including identifying the 5 W’s (Who, What, When, Where, Why), analyzing impact, and outlining response actions.
+
+**My Role / Skills Demonstrated:**  
+- Documented incidents using structured incident response methodology  
+- Applied detection and analysis techniques across multiple attack scenarios  
+- Identified root causes and attack vectors  
+- Used investigative tools such as VirusTotal and Wireshark  
+- Analyzed ransomware, phishing, forced browsing, and network traffic incidents  
+- Practiced structured communication for incident reporting  
+
+**Key Incident Scenarios Documented:**  
+- **Ransomware attack** at a healthcare clinic initiated via phishing email  
+- **Phishing attack investigation** using VirusTotal (51/71 vendor detections, community score -284)  
+- **Ransomware and data exfiltration incident** involving forced browsing vulnerability in an e-commerce application  
+- **Packet capture analysis** using Wireshark to investigate network activity  
+
+**Tools Used:**  
+- VirusTotal (hash and malware analysis)  
+- Wireshark (packet capture analysis)  
+- Log and alert review techniques  
+- Structured 5 W’s incident documentation  
+
+**Security Concepts Applied:**  
+- Incident Response Lifecycle (Detection, Analysis, Containment, Eradication, Recovery)  
+- Root Cause Analysis  
+- Malware Investigation  
+- Web Application Vulnerabilities (Forced Browsing)  
+- Ransomware Response  
+- Network Traffic Analysis  
+
+**Supporting Documents:**  
+- [Incident Handler's Journal (PDF)](Incident-Handlers-Journal.pdf)
