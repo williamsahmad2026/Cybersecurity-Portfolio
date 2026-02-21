@@ -3,6 +3,10 @@
 ## About Me
 I am an entry-level cybersecurity professional with hands-on experience in threat investigation, log analysis, and incident response. Completed the Google Cybersecurity Certificate and lab projects, demonstrating practical skills to help organizations detect, analyze, and mitigate cyber threats. Passionate about protecting systems and continuously developing skills to contribute effectively across security operations.
 
+## Certifications
+- Google Cybersecurity Certificate (Verification: https://www.credly.com/badges/9952b36a-c246-4d56-b4d3-b1463b4b0792/public_url)
+- CompTIA Security+ (In Progress)
+
 ## Technical Skills
 - Frameworks: NIST CSF, NIST SP 800-30
 - Tools: Wireshark, VirusTotal
